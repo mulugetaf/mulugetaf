@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align = "left" alt="Mulugeta|LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align = "left" alt="Mulugeta|Email" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align = "left" alt="Mulugeta|LinkedIn" width="22px" src="./linkedin.svg" class="filter-yellow /">][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mulugetafanta/
+
 
 <!-- ![](https://img.shields.io/badge/<>-<>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
