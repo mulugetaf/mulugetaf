@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img align = "left" alt="mulugetafanta | LinkedIn" width="22px" src=./linkedin.svg" />]x`[linkedin]
+
+[<img align = "left" alt="mulugetafanta | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/mulugetafanta/
 
-![](https://img.shields.io/badge/<>-<>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/<>-<>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
