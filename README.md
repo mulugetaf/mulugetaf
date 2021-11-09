@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 [<img align = "left" alt="Mulugeta|LinkedIn" width="22px" src="./svgs/linkedin.svg" class="filter-yellow /">][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/mulugetafanta/
+[<img align = "left" alt="mailto:Gmail" width="22px" src="./svgs/gmail.svg" class="filter-yellow /">][gmail]
 
 
 <!-- ![](https://img.shields.io/badge/<>-<>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
+[linkedin]: https://www.linkedin.com/in/mulugetafanta/
+[gmail]: Mulukas@gmail.com
