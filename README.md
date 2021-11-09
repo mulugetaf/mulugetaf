@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 ![Mulugeta's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mulugetaf&theme=dark&show_icons=true&hide_border=true&layout=compact&theme=buefy)
 
 
-
 [linkedin]: https://www.linkedin.com/in/mulugetafanta/
 [gmail]: mailto:Mulukas@gmail.com
