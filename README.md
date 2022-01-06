@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 
-![Mulugeta's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mulugetaf&theme=dark&show_icons=true&hide_border=true&layout=compact&theme=buefy)
+<!-- ![Mulugeta's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mulugetaf&theme=dark&show_icons=true&hide_border=true&layout=compact&theme=buefy) -->
 
 
 [linkedin]: https://www.linkedin.com/in/mulugetafanta/
