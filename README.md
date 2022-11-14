@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-[<img align = "left" alt="Mulugeta|LinkedIn" width="22px" src="./svgs/linkedin.svg" class="filter-yellow /">][linkedin]
+<!-- [<img align = "left" alt="Mulugeta|LinkedIn" width="22px" src="./svgs/linkedin.svg" class="filter-yellow /">][linkedin]
 
-[<img align = "left" alt="Muluget|Gmail" width="22px" src="./svgs/gmail.svg" class="filter-yellow /">][gmail]
+[<img align = "left" alt="Muluget|Gmail" width="22px" src="./svgs/gmail.svg" class="filter-yellow /">][gmail] -->
 
 <br>
 
